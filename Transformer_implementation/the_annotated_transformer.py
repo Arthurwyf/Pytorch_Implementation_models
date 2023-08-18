@@ -1124,7 +1124,7 @@ def example_learning_schedule():
     )
 
 
-example_learning_schedule()
+#example_learning_schedule()
 
 
 # %% [markdown] id="7T1uD15VTsqK"
@@ -1373,7 +1373,7 @@ def example_simple_model():
     print(greedy_decode(model, src, src_mask, max_len=max_len, start_symbol=0))
 
 
-# execute_example(example_simple_model)
+#execute_example(example_simple_model)
 
 
 # %% [markdown] id="OpuQv2GsTsqL"
